@@ -26,14 +26,14 @@
   cursor: pointer;
   font-size: 25px;
   font-weight: 600;
-  background: #6c63ff;
+  background: #53ff1f;
   color: white;
   box-shadow: 0 8px 16px rgba(108, 99, 255, 0.3);
   transition: background 0.3s ease, transform 0.2s ease;
 }
 
 #button:hover {
-  background: #594ce3;
+  background: #79e34c;
   transform: scale(1.02);
 }
 
